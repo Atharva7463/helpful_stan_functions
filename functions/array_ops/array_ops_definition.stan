@@ -1,3 +1,3 @@
-/** \defgroup array Array Operation Functions
+/**  \defgroup array Array Operation Functions
   *
   **/
